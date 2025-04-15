@@ -781,7 +781,8 @@ pec_data = {
               ]
              # ... Le funzioni supportano il rientro e avviano il recupero ...
         }
-    },
+    }
+    ,
 
     # --- SEZIONI STATICHE (aggiornate da PEC pag. 15-22, 40-62) ---
     "Glossario": { # pag. 15-21
