@@ -1047,7 +1047,8 @@ pec_data = {
         "Manifestazioni ed Eventi Programmati": [
              "**NORME GENERALI PER IL PUBBLICO:**\n* Prendere visione delle planimetrie dell'area con indicazione delle uscite di sicurezza e dei punti di raccolta.\n* Individuare le uscite di sicurezza più vicine alla propria postazione.\n* Seguire le indicazioni del personale di sicurezza (steward) e degli addetti all'emergenza.\n* Mantenere libere le vie di esodo e le uscite di sicurezza.\n* Non introdurre oggetti pericolosi (es. bottiglie di vetro, materiale infiammabile).\n* In caso di emergenza: mantenere la calma, seguire le istruzioni diffuse tramite altoparlanti o dal personale, dirigersi ordinatamente verso l'uscita di sicurezza più vicina, raggiungere il punto di raccolta esterno indicato.\n* Non usare fiamme libere.\n* Segnalare immediatamente al personale di sicurezza eventuali situazioni di pericolo o persone in difficoltà."
          ]
-    },
+    }
+},
 # --- Fine Struttura Dati ---
 
 # --- Funzioni Helper per Stato ---
