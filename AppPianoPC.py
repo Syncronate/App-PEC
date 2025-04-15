@@ -736,7 +736,7 @@ pec_data = {
             # ... Smobilitazione strutture e personale ...
         }
     },
-    "Maremoto": { # Cap. P
+    "": { # Cap. P
         "Fase di Allerta (Messaggio CAT-IT)": { # P.2/P.3/P.4 - pag. 184-186
              "Sindaco": [
                  "Riceve messaggio di allerta da DPC/Prefettura;", # pag. 185 (implicito)
@@ -1051,6 +1051,7 @@ pec_data = {
          ]
     }
 }
+,
 # --- Fine Struttura Dati ---
 
 # --- Funzioni Helper per Stato ---
